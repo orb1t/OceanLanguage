@@ -1,0 +1,3 @@
+base class <modifiers|langdef=Modifiers>
+strictbase:1 class <name>
+strictbase <body|langdef=Body>

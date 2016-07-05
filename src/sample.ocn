@@ -1,0 +1,13 @@
+class Sample public {
+    integer i;
+    
+    public method() {
+        print i;
+        printer: {
+            i = i + 1;
+            print i;
+            if (i<=5)
+                printer:;
+        }
+    }
+}

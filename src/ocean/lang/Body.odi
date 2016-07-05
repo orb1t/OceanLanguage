@@ -1,0 +1,3 @@
+base bodyopen {
+base bodylease :{ [usewith : <sub name> as prefix]
+base bodyclose }
